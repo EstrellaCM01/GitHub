@@ -1,4 +1,5 @@
 # GitHub
 tutorial de git
 
-Este repositorio es para ejemplificar el uso de github
+
+Este texto representa al segundo commit con github.
